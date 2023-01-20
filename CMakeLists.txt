@@ -3,4 +3,4 @@ project(untitled24)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(untitled24 main.cpp table.cpp table.h)
+add_executable(untitled24 main.cpp table.cpp table.h node.cpp node.h)
